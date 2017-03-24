@@ -1,5 +1,5 @@
 # Storage during the project
-Digital data regarding the project will be stored on bulk storage volumes of the University Medical Center Utrecht. These volumes are mirrored to ensure redundancy by physically separating copies and extensive measures are taken to ensure security and integrity. For specifics, see [Storage Appendix](#StorageAppendix).
+Digital data regarding the project will be stored on bulk storage volumes of the University Medical Center Utrecht. These volumes are mirrored to ensure redundancy by physically separating copies and extensive measures are taken to ensure security and integrity. For specifics, see [Storage Appendix](#storage-appendix).
 
 # Privacy regulations
 Personally identifiable data (as defined by the ‘Wet bescherming persoonsgegevens’, http://wetten.overheid.nl/BWBR0011468/2016-01-01 and the ‘Wet op de geneeskundige behandelingsovereenkomst’, http://wetten.overheid.nl/BWBR0005290/2017-01-01) will be stored behind the firewalls of the hospital, ensuring the privacy of the patient and protection of the data. If there is a need to store any sensitive data on a portable device, the corresponding data or drive will be encrypted and password locked. In case of transferring the data electronically, encryption with password protection will be applied and transmitted over secure connections. For further details on the use of personally identifiable information, see ‘Appendix’.
@@ -9,5 +9,5 @@ All products from this project will be made available by submission to [select c
 
 ------
 
-# StorageAppendix
+# Storage Appendix
 Synchronization between the two locations takes place once an hour. Snapshots are created each hour and maintained for 90 days. There is a separation of bulk storage solutions for the research and patient-care domains, keeping patient and research data separate.
