@@ -6,3 +6,6 @@ The text provided here can be used for the Data Management Plan paragraph that i
 
 # Contact
 You can contact us by submitting an Issue to our GitHub or via [UBEC.nl](http://www.ubec.nl/).
+
+# Stewardship wizard
+DTL is developing a wizard to help researchers think about the requirements of datamanagement in their project ro application. Check out their [demo](https://dmp.fairdata.solutions/) version if you are thinking about writing a data management plan.
